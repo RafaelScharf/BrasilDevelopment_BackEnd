@@ -52,4 +52,4 @@ https://github.com/RafaelScharf/BrasilDevelopment_FrontEnd
 Obs: Caso saibam uma forma melhor pra retirarmos as regras de negócio podem editar!
   
  ## Vamos começar! 
- Veja como contribuir: https://github.com/RafaelScharf/BrasilDevelopment_FrontEnd/blob/master/Contributing.md
+ Veja como contribuir: https://github.com/RafaelScharf/BrasilDevelopment_BackEnd/blob/master/Contributing.md
