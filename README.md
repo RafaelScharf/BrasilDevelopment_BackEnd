@@ -46,7 +46,7 @@ Para isso vamos precisar:
 **Link das regras de negocio:**
 https://docs.google.com/document/d/1PPQEEe4aPjWmOIEmnIMF-rhbL2CyTepUUf2OI8EiOOA/edit?usp=sharing
 
-**Link do Repositório do FrontEnd em ReactJShttps://github.com/RafaelScharf/BrasilDevelopment_FrontEnd:**
+**Link do Repositório do FrontEnd em ReactJS:**
 https://github.com/RafaelScharf/BrasilDevelopment_FrontEnd
 
 Obs: Caso saibam uma forma melhor pra retirarmos as regras de negócio podem editar!
